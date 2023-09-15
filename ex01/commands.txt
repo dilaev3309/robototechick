@@ -1,1 +1,10 @@
-
+1.touch - Create blank/empty files
+2.sort - Linux command to sort the content of a file while outputting
+3.tar - Command to extract and compress files in Linux
+4.grep - Search for a string within an output
+5.tail - Return the specified number of lines from the bottom
+6.diff - Find the difference between two files
+7.cal - View a command-line calendar
+8.chmod - Command to change file permissions
+9.chown - Command for granting ownership of files or folders
+10.whatis - Find what a command is used for
